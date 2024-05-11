@@ -3,6 +3,6 @@ Unity Zero Hero Bootcamp eğitimindeki karakter hareketi ve animasyonlarını ka
 
 Kontroller
 -------------
-WASD veya Yön Tuşları -> Hareket Etme
-LShift -> Koşma
+WASD veya Yön Tuşları -> Hareket Etme\
+LShift -> Koşma\
 Space -> Zıplama
